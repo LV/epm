@@ -1,0 +1,5 @@
+/__pycache__
+/output
+geckodriver.log
+creds.py
+.DS_Store
